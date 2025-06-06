@@ -1,5 +1,4 @@
-# My DevOps Project TASK-3
-# DevOps Project: Git Version Control
+## DevOps Project: Git Version Control
 
 This project demonstrates Git best practices such as version control, branching, and pull requests — key concepts in DevOps workflows.
 
